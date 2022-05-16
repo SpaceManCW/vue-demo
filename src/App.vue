@@ -27,11 +27,9 @@ export default defineComponent({
 
 #sidebar {
   width: 300px;
-  border: 1px solid red;
   padding: 15px;
 }
 #router {
-  border: 1px solid red;
   flex: 1;
   padding: 15px;
 }
